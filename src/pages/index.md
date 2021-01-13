@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/interesting-wallaby.jpg
+    image: images/adorable-comet.png
   - type: features_section
     title: Features
     features:
