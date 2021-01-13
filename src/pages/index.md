@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/2.png
+    image: images/remarkable-cedar.jpg
   - type: features_section
     title: Features
     features:
